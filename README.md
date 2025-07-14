@@ -239,4 +239,25 @@ Contributors:
 
 Debadatta Rout and team of 5 members.
 
+### 🌐 Deployment & Hosting
+
+We deployed this project using **[Netlify](https://www.netlify.com/)** — a powerful platform that provides seamless continuous deployment, global CDN hosting, and HTTPS support, all for free.
+
+The deployment process involved:
+
+- Connecting our GitHub repository to Netlify
+- Setting up continuous integration so every push to the `main` branch triggers an automatic build and deploy
+- Using Netlify’s free hosting tier, which includes:
+  - HTTPS-enabled custom domain
+  - Global CDN for fast content delivery
+  - Rollbacks, analytics, and form handling
+  - Easy drag-and-drop or CLI-based deployments
+
+## 💡 **Why Netlify?**
+We chose Netlify for its simplicity, developer-friendly workflow, fast deployment speeds, and generous free-tier — perfect for student projects and open-source development.
+
+## 🔗 **Live Project URL:**  
+[https://candid-buttercream-e156f3.netlify.app](https://candid-buttercream-e156f3.netlify.app)
+
+
 
