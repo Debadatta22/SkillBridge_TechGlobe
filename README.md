@@ -158,7 +158,7 @@ About Section: Details about the SkillBridge team and mission
 2. Interactive Dashboard (Main Feature)
 When users click "Start Exploring":
 
-Dashboard Structure:
+## Dashboard Structure:
 Full-screen modal that prevents body scrolling
 Responsive design that adapts to any device size
 Tab-based navigation with 6 main sections:
