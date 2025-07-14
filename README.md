@@ -152,70 +152,132 @@ Global CDN delivery with HTTPS
 📈 Researchers analyzing global patterns
 
 ## 🔄 Application Workflow
+
 1. Landing Page Experience
+   
 Particle Background: Animated particles create a dynamic space-like atmosphere
+
 Hero Section: Features a preview 3D Earth globe with call-to-action buttons
+
 Technology Cards: Showcase different tech domains (AI, Data Science, Cybersecurity, etc.)
+
 About Section: Details about the SkillBridge team and mission
-2. Interactive Dashboard (Main Feature)
+
+3. Interactive Dashboard (Main Feature)
+   
 When users click "Start Exploring":
 
 ## Dashboard Structure:
+
 Full-screen modal that prevents body scrolling
+
 Responsive design that adapts to any device size
+
 Tab-based navigation with 6 main sections:
+
 Tab 1: Overview
+
 3D Interactive Earth:
+
 Rotatable globe with mouse/touch controls
+
 Green landmasses representing countries/continents
+
 Real-time hover detection using Three.js raycasting
+
 Tooltip displays country-specific tech data
+
 Global Statistics Panel: Live metrics and KPIs
+
 Tab 2: Tech Trends
+
 Line charts showing technology adoption over time (2019-2024)
+
 Doughnut chart for programming language usage
+
 Trending technologies and popular courses
+
 Skills demand indicators
+
 Tab 3: Country Comparison
+
 Bar charts comparing tech focus by country
+
 Radar charts for skills demand vs supply analysis
+
 Country rankings and performance metrics
+
 Tab 4: Skills Analysis
+
 Radar charts for skills gap analysis
+
 Supply vs demand visualizations
+
 Interactive skill progression tracking
+
 Tab 5: Tech Economy
+
 Multi-axis line charts for economic data
+
 Investment trends by sector
+
 Job market statistics
+
 Regional market analysis
+
 Tab 6: Company Growth
+
 Bar charts for company market caps
+
 Startup ecosystem data
+
 Company details by country
+
 Growth metrics and performance indicators
+
 ## 🎮 User Interaction Flow
+
 3D Earth Interactions:
+
 Mouse Controls: Click and drag to rotate the globe
+
 Touch Support: Full mobile/tablet touch gesture support
+
 Zoom: Mouse wheel or pinch gestures
+
 Hover Detection: Real-time country identification
+
 Auto-rotation: Gentle rotation when not being controlled
+
 Data Visualization:
+
 Interactive Charts: Hover effects, tooltips, and animations
+
 Responsive Design: Charts adapt to screen size
+
 Real-time Updates: Smooth transitions and data updates
+
 Color-coded Information: Consistent color scheme throughout
+
 ## 🎨 Design Philosophy
+
 Modern Aesthetics:
+
 Dark theme with glowing cyan/blue accents
+
 Glassmorphism effects with backdrop blur
+
 Smooth animations and micro-interactions
+
 Gradient backgrounds and particle effects
-Responsive Design:
+
+## Responsive Design:
 Mobile-first approach with breakpoints
+
 Flexible layouts using CSS Grid and Flexbox
+
 Touch-optimized interactions for mobile devices
+
 Scalable typography and spacing
 
 
