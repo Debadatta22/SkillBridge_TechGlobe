@@ -319,7 +319,6 @@ The deployment process involved:
 We chose Netlify for its simplicity, developer-friendly workflow, fast deployment speeds, and generous free-tier — perfect for student projects and open-source development.
 
 ## 🔗 **Live Project URL:**  
-[https://candid-buttercream-e156f3.netlify.app](https://candid-buttercream-e156f3.netlify.app)
-
+## 🔗 [Visit Live Site](https://candid-buttercream-e156f3.netlify.app)
 
 
