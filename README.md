@@ -3,6 +3,9 @@
 
 ## 🔗 [Visit Live Site](https://candid-buttercream-e156f3.netlify.app)
 
+## Download the files from here -
+### 🔗 [SkillBridge_Files](  https://drive.google.com/drive/folders/1-eHz2SIzBfF8aAMWJSFmYsNt5y9tiAs3?usp=sharing)
+
 
 # 🌐 SkillBridge TechGlobe – Interactive 3D Earth Technology Insight Platform
 
