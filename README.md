@@ -1,6 +1,7 @@
 # SkillBridge_TechGlobe
 <img width="1343" height="565" alt="image" src="https://github.com/user-attachments/assets/2c59fa2a-b8ba-4c0c-b376-d42bc0529801" />
 
+
 ## 🔗 [Visit Live Site](https://candid-buttercream-e156f3.netlify.app)
 
 ## Download the files from here -
